@@ -2,7 +2,7 @@
 
 vim colorscheme for [vscode-winteriscoming](https://github.com/johnpapa/vscode-winteriscoming), generated using [djanho](https://github.com/viniciusmuller/djanho)
 
-## installation
+## Installation
 
 Install the theme with your preferred package manager, such as
 [folke/lazy.nvim](https://github.com/folke/lazy.nvim):
@@ -13,7 +13,39 @@ Install the theme with your preferred package manager, such as
   }
 ```
 
-## side by side preview
+## Usage
+
+### nvim
+
+```
+vim.cmd("colorscheme WinterIsComing-dark-blue-color-theme")
+```
+
+### lunarvim
+
+```
+-- config.lua
+
+lvim.colorscheme = "WinterIsComing-dark-blue-color-theme"
+```
+
+## Theme
+
+```
+-- Light
+-- WinterIsComing-light-color-theme
+-- WinterIsComing-light-color-no-italics-theme
+
+-- Dark
+-- WinterIsComing-dark-color-theme
+-- WinterIsComing-dark-color-no-italics-theme
+
+-- Dark Blue
+-- WinterIsComing-dark-blue-color-theme
+-- WinterIsComing-dark-blue-color-no-italics-theme
+```
+
+## Side by side preview
 
 left side is vscodium(vscode), right side is lunarvim(neovim)
 
