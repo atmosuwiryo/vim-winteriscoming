@@ -19,7 +19,6 @@ Install the theme with your preferred package manager, such as
 
 ```
 vim.cmd("colorscheme WinterIsComing-dark-blue-color-theme")
-
 ```
 
 
@@ -29,7 +28,6 @@ vim.cmd("colorscheme WinterIsComing-dark-blue-color-theme")
 -- config.lua
 
 lvim.colorscheme = "WinterIsComing-dark-blue-color-theme"
-
 ```
 
 ## Theme
@@ -46,7 +44,6 @@ lvim.colorscheme = "WinterIsComing-dark-blue-color-theme"
 -- Dark Blue
 -- WinterIsComing-dark-blue-color-theme
 -- WinterIsComing-dark-blue-color-no-italics-theme
-
 ```
 
 ## Side by side preview
