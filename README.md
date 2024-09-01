@@ -21,7 +21,6 @@ Install the theme with your preferred package manager, such as
 vim.cmd("colorscheme WinterIsComing-dark-blue-color-theme")
 ```
 
-
 ### lunarvim
 
 ```
