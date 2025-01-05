@@ -21,6 +21,17 @@ Install the theme with your preferred package manager, such as
 vim.cmd("colorscheme WinterIsComing-dark-blue-color-theme")
 ```
 
+example use as config in lazy.nvim
+
+```lua
+  {
+    "atmosuwiryo/vim-winteriscoming",
+    config = function ()
+      vim.cmd("colorscheme WinterIsComing-dark-blue-color-theme")
+    end
+  }
+```
+
 ### lunarvim
 
 ```
